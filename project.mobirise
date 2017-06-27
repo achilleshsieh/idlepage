@@ -430,7 +430,7 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#efefef"
             },
             ".mbr-section-subtitle": {
               "color": "#a0a0a0"
@@ -458,9 +458,9 @@
           "title": "WANT TO LEARN MORE ABOUT IT?",
           "subtitle": "Subscribe to get update on our exciting project",
           "form": {
-            "action": "richard.xie@aquilabus.com",
+            "action": "info@idlerents.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "We will keep you posted! Thanks!"
             },
             "fields": {
               "email": {
@@ -583,7 +583,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-5\">FEATURES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-4\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-5\">FEATURES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form2-b\">SUBSCRIBE OUR NEWS</a></li>"
         },
         {
           "_tags": [
