@@ -19,7 +19,11 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": [
+        "#8d8d8d",
+        "#2e2e2e"
+      ]
     },
     "favicon": "",
     "noImageResize": "",
@@ -511,12 +515,17 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#424242",
+            "bgColor": "#8d8d8d",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 Idle LLC."
+          "text": "Copyright (c) 2017 Idle LLC.",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_tags": [
@@ -531,7 +540,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#8d8d8d",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -558,6 +567,9 @@
           "_styles": {
             "P": {
               "text-align": "right"
+            },
+            "STRONG": {
+              "color": "#000000"
             }
           }
         }
@@ -668,12 +680,17 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#424242",
+            "bgColor": "#8d8d8d",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 Idle LLC."
+          "text": "Copyright (c) 2017 Idle LLC.",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_inherit": "header1",
@@ -812,12 +829,17 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#424242",
+            "bgColor": "#8d8d8d",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 Idle LLC."
+          "text": "Copyright (c) 2017 Idle LLC.",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_styles": {

@@ -499,8 +499,14 @@ h6,
 #social-buttons4-h .btn-social {
   color: #fff;
 }
+#footer1-2 P {
+  color: #ffffff;
+}
 #contacts1-m P {
   text-align: right;
+}
+#contacts1-m STRONG {
+  color: #000000;
 }
 #menu-8 .hide-buttons .nav-btn {
   display: none !important;
@@ -563,6 +569,9 @@ h6,
 #menu-8 .dropdown-item[aria-expanded="true"] {
   color: #26a69a!important;
 }
+#footer1-9 P {
+  color: #ffffff;
+}
 #menu-c .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -623,6 +632,9 @@ h6,
 #menu-c .link[aria-expanded="true"],
 #menu-c .dropdown-item[aria-expanded="true"] {
   color: #26a69a!important;
+}
+#footer1-d P {
+  color: #ffffff;
 }
 #content5-e .mbr-section-title,
 #content5-e p {
