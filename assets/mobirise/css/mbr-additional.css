@@ -495,6 +495,13 @@ h6,
 #form2-b .mbr-section-subtitle {
   color: #a0a0a0;
 }
+#social-buttons4-h .mbr-section-title,
+#social-buttons4-h .btn-social {
+  color: #fff;
+}
+#contacts1-m P {
+  text-align: right;
+}
 #menu-8 .hide-buttons .nav-btn {
   display: none !important;
 }
